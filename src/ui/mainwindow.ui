@@ -137,7 +137,7 @@
   <action name="actionNew">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/new.png</normaloff>:/images/Assets/new.png</iconset>
+     <normaloff>:/images/assets/new.png</normaloff>:/images/assets/new.png</iconset>
    </property>
    <property name="text">
     <string>New</string>
@@ -149,7 +149,7 @@
   <action name="actionOpen">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/open.png</normaloff>:/images/Assets/open.png</iconset>
+     <normaloff>:/images/assets/open.png</normaloff>:/images/assets/open.png</iconset>
    </property>
    <property name="text">
     <string>Open</string>
@@ -161,7 +161,7 @@
   <action name="actionSave">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/save.png</normaloff>:/images/Assets/save.png</iconset>
+     <normaloff>:/images/assets/save.png</normaloff>:/images/assets/save.png</iconset>
    </property>
    <property name="text">
     <string>Save</string>
@@ -173,7 +173,7 @@
   <action name="actionSave_As">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/save.png</normaloff>:/images/Assets/save.png</iconset>
+     <normaloff>:/images/assets/save.png</normaloff>:/images/assets/save.png</iconset>
    </property>
    <property name="text">
     <string>Save As</string>
@@ -185,7 +185,7 @@
   <action name="actionPrint">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/print.png</normaloff>:/images/Assets/print.png</iconset>
+     <normaloff>:/images/assets/print.png</normaloff>:/images/assets/print.png</iconset>
    </property>
    <property name="text">
     <string>Print</string>
@@ -197,7 +197,7 @@
   <action name="actionPrint_Preview">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/printprev.png</normaloff>:/images/Assets/printprev.png</iconset>
+     <normaloff>:/images/assets/printprev.png</normaloff>:/images/assets/printprev.png</iconset>
    </property>
    <property name="text">
     <string>Print Preview</string>
@@ -209,7 +209,7 @@
   <action name="actionExport_PDF">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/pdf.png</normaloff>:/images/Assets/pdf.png</iconset>
+     <normaloff>:/images/assets/pdf.png</normaloff>:/images/assets/pdf.png</iconset>
    </property>
    <property name="text">
     <string>Export PDF</string>
@@ -221,7 +221,7 @@
   <action name="actionExit">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/exit.png</normaloff>:/images/Assets/exit.png</iconset>
+     <normaloff>:/images/assets/exit.png</normaloff>:/images/assets/exit.png</iconset>
    </property>
    <property name="text">
     <string>Exit</string>
@@ -230,7 +230,7 @@
   <action name="actionUndo">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/undo.png</normaloff>:/images/Assets/undo.png</iconset>
+     <normaloff>:/images/assets/undo.png</normaloff>:/images/assets/undo.png</iconset>
    </property>
    <property name="text">
     <string>Undo</string>
@@ -242,7 +242,7 @@
   <action name="actionRedo">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/redo.png</normaloff>:/images/Assets/redo.png</iconset>
+     <normaloff>:/images/assets/redo.png</normaloff>:/images/assets/redo.png</iconset>
    </property>
    <property name="text">
     <string>Redo</string>
@@ -254,7 +254,7 @@
   <action name="actionCut">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/cut.png</normaloff>:/images/Assets/cut.png</iconset>
+     <normaloff>:/images/assets/cut.png</normaloff>:/images/assets/cut.png</iconset>
    </property>
    <property name="text">
     <string>Cut</string>
@@ -266,7 +266,7 @@
   <action name="actionCopy">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/copy.png</normaloff>:/images/Assets/copy.png</iconset>
+     <normaloff>:/images/assets/copy.png</normaloff>:/images/assets/copy.png</iconset>
    </property>
    <property name="text">
     <string>Copy</string>
@@ -278,7 +278,7 @@
   <action name="actionPaste">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/paste.png</normaloff>:/images/Assets/paste.png</iconset>
+     <normaloff>:/images/assets/paste.png</normaloff>:/images/assets/paste.png</iconset>
    </property>
    <property name="text">
     <string>Paste</string>
@@ -290,7 +290,7 @@
   <action name="actionBold">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/bold.png</normaloff>:/images/Assets/bold.png</iconset>
+     <normaloff>:/images/assets/bold.png</normaloff>:/images/assets/bold.png</iconset>
    </property>
    <property name="text">
     <string>Bold</string>
@@ -302,7 +302,7 @@
   <action name="actionItalic">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/italic.png</normaloff>:/images/Assets/italic.png</iconset>
+     <normaloff>:/images/assets/italic.png</normaloff>:/images/assets/italic.png</iconset>
    </property>
    <property name="text">
     <string>Italic</string>
@@ -314,7 +314,7 @@
   <action name="actionUnderline">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/underline.png</normaloff>:/images/Assets/underline.png</iconset>
+     <normaloff>:/images/assets/underline.png</normaloff>:/images/assets/underline.png</iconset>
    </property>
    <property name="text">
     <string>Underline</string>
@@ -326,7 +326,7 @@
   <action name="actionLeft">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/left.png</normaloff>:/images/Assets/left.png</iconset>
+     <normaloff>:/images/assets/left.png</normaloff>:/images/assets/left.png</iconset>
    </property>
    <property name="text">
     <string>Left</string>
@@ -338,7 +338,7 @@
   <action name="actionRight">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/right.png</normaloff>:/images/Assets/right.png</iconset>
+     <normaloff>:/images/assets/right.png</normaloff>:/images/assets/right.png</iconset>
    </property>
    <property name="text">
     <string>Right</string>
@@ -350,7 +350,7 @@
   <action name="actionCenter">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/center.png</normaloff>:/images/Assets/center.png</iconset>
+     <normaloff>:/images/assets/center.png</normaloff>:/images/assets/center.png</iconset>
    </property>
    <property name="text">
     <string>Center</string>
@@ -362,7 +362,7 @@
   <action name="actionJustify">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/justify.png</normaloff>:/images/Assets/justify.png</iconset>
+     <normaloff>:/images/assets/justify.png</normaloff>:/images/assets/justify.png</iconset>
    </property>
    <property name="text">
     <string>Justify</string>
@@ -374,7 +374,7 @@
   <action name="actionFont">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/font.png</normaloff>:/images/Assets/font.png</iconset>
+     <normaloff>:/images/assets/font.png</normaloff>:/images/assets/font.png</iconset>
    </property>
    <property name="text">
     <string>Font</string>
@@ -383,7 +383,7 @@
   <action name="actionColor">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/color.png</normaloff>:/images/Assets/color.png</iconset>
+     <normaloff>:/images/assets/color.png</normaloff>:/images/assets/color.png</iconset>
    </property>
    <property name="text">
     <string>Color</string>
@@ -392,7 +392,7 @@
   <action name="actionAbout">
    <property name="icon">
     <iconset resource="res.qrc">
-     <normaloff>:/images/Assets/about.png</normaloff>:/images/Assets/about.png</iconset>
+     <normaloff>:/images/assets/about.png</normaloff>:/images/assets/about.png</iconset>
    </property>
    <property name="text">
     <string>About</string>

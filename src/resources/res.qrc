@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>assets/undo.png</file>
+        <file>assets/underline.png</file>
+        <file>assets/save.png</file>
+        <file>assets/right.png</file>
+        <file>assets/redo.png</file>
+        <file>assets/printprev.png</file>
+        <file>assets/pdf.png</file>
+        <file>assets/print.png</file>
+        <file>assets/new.png</file>
+        <file>assets/nodepad.png</file>
+        <file>assets/open.png</file>
+        <file>assets/paste.png</file>
+        <file>assets/left.png</file>
+        <file>assets/justify.png</file>
+        <file>assets/italic.png</file>
+        <file>assets/font.png</file>
+        <file>assets/exit.png</file>
+        <file>assets/copy.png</file>
+        <file>assets/cut.png</file>
+        <file>assets/color.png</file>
+        <file>assets/center.png</file>
+        <file>assets/bold.png</file>
+        <file>assets/about.png</file>
+    </qresource>
+</RCC>

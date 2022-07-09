@@ -16,11 +16,15 @@ find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets PrintSupport)
 
 set(PROJECT_SOURCES
-        main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
-        res.qrc
+        src/main.cpp
+        src/mainwindow.cpp
+        src/include/mainwindow.h
+        src/ui/mainwindow.ui
+        src/resources/res.qrc
+)
+
+set(PROJECT_INCLUDE_DIRS
+        src/include
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
@@ -45,7 +49,7 @@ else()
         )
     endif()
 endif()
-
+target_include_directories(${PROJECT_NAME} PRIVATE ${PROJECT_INCLUDE_DIRS})
 target_link_libraries(NotepadExample
     PRIVATE
     Qt${QT_VERSION_MAJOR}::Widgets
