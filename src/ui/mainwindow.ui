@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>:/images/NotePadExample/nodepad.png</normaloff>:/images/NotePadExample/nodepad.png</iconset>
+    <normaloff>:/images/assets/nodepad.png</normaloff>:/images/assets/nodepad.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout">
