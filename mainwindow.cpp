@@ -63,6 +63,8 @@ void MainWindow::openFile()
 {
     QString fileName{QFileDialog::getOpenFileName(this, "Open file")};
     MainWindow::loadText(fileName);
+
+    moveCursorToEnd();
 }
 
 void MainWindow::save()
@@ -292,8 +294,6 @@ void MainWindow::loadText(const QString& fileName)
 
     QString text{in.readAll()};
     ui->textEdit->setText(text);
-
-    MainWindow::moveCursorToEnd();
 
     file.close();
 }
