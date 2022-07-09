@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>NotePadExample/undo.png</file>
+        <file>NotePadExample/underline.png</file>
+        <file>NotePadExample/save.png</file>
+        <file>NotePadExample/right.png</file>
+        <file>NotePadExample/redo.png</file>
+        <file>NotePadExample/printprev.png</file>
+        <file>NotePadExample/pdf.png</file>
+        <file>NotePadExample/print.png</file>
+        <file>NotePadExample/new.png</file>
+        <file>NotePadExample/nodepad.png</file>
+        <file>NotePadExample/open.png</file>
+        <file>NotePadExample/paste.png</file>
+        <file>NotePadExample/left.png</file>
+        <file>NotePadExample/justify.png</file>
+        <file>NotePadExample/italic.png</file>
+        <file>NotePadExample/font.png</file>
+        <file>NotePadExample/exit.png</file>
+        <file>NotePadExample/copy.png</file>
+        <file>NotePadExample/cut.png</file>
+        <file>NotePadExample/color.png</file>
+        <file>NotePadExample/center.png</file>
+        <file>NotePadExample/bold.png</file>
+        <file>NotePadExample/about.png</file>
+    </qresource>
+</RCC>
